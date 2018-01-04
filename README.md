@@ -1,5 +1,7 @@
 # Coding Sites
 
+These sites are available for purchase at www.godaddy.com:
+
 - www.appmaker.io
 - www.appreactor.io
 - www.appsimulator.io
