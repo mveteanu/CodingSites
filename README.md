@@ -6,6 +6,8 @@ These sites are available for purchase. Visit www.codingsites.net for more detai
 - www.appreactor.io
 - www.appsimulator.io
 - www.artistjs.com
+- lims.foundation
+- python.foundation
 - www.becomeacoder.io
 - www.becomeprogrammer.com
 - www.bitacademy.io
